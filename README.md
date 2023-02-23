@@ -1,1 +1,1 @@
-<h1>PROJETO ANDROID-TV</h1>
+<h1 align="center">PROJETO ANDROID-TV</h1>
